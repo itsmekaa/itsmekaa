@@ -1,5 +1,5 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmekaa&theme=transparent&short_numbers=true&mode=daily)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itsmekaa&theme=transparent&short_numbers=true&mode=daily" width="100%"/>
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=itsmekaa&theme=github-compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmekaa&theme=github-compact" width="100%"/>
 
-![snake](https://raw.githubusercontent.com/itsmekaa/itsmekaa/main/dist/github-contribution-grid-snake.svg)
+<img src="https://github.com/itsmekaa/itsmekaa/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%"/>
